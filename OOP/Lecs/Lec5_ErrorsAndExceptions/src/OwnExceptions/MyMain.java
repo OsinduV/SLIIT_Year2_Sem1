@@ -16,3 +16,14 @@ public class MyMain {
 	}
 
 }
+
+/*
+you need to create your own exception class
+and it should extends the Exception class and 
+include default constructor
+
+1)you have to write condition Where you detect the exception
+2)create the object by passing suitable msg
+3)throw it
+
+*/
